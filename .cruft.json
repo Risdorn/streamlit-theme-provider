@@ -1,0 +1,20 @@
+{
+  "template": "https://github.com/blackary/cookiecutter-streamlit-component/",
+  "commit": "c972054b7b0890a1aa1c02e792bedc71c525ea87",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "author_name": "Rishabh Indoria",
+      "author_email": "rishabhindoria2203@gmail.com",
+      "project_name": "Streamlit Theme Provider",
+      "package_name": "streamlit-theme-provider",
+      "import_name": "streamlit_theme_provider",
+      "description": "Streamlit component that allows you to get the current theme.",
+      "deployment_via_github_actions": "y",
+      "working_with_dataframes": "n",
+      "open_source_license": "MIT license",
+      "_template": "https://github.com/blackary/cookiecutter-streamlit-component/"
+    }
+  },
+  "directory": null
+}
